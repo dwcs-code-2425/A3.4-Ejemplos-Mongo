@@ -6,5 +6,5 @@ function mostrar($document)
     }
     echo "<pre>";
     print_r($document);
-    echo "<pre>";
+    echo "</pre>";
 }
